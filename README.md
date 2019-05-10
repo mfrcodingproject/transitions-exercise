@@ -1,4 +1,4 @@
-# transitions-exercise
+# Transitions Exercise
 In this exercise you will have to work with transitions to get different cool effects on this web. The first step will be to download this repo and take a look at the code and the result of this code.
 
 Once you understand it, we can start working in it. We want to get at least 3 different effects:
