@@ -19,7 +19,7 @@ You will have to use (obviously apart from transition) the `transform` and `over
 #### 3 Show text at the end
 At the end there is a paragraph with information. But it is not visible, let's solve it.
 
-Change the value of the `visible` and `opacity` property to show the information
+Change the value of the `visible` and `opacity` property to show the information when the mouse is hover the title with a transition effect
 
 #### 4 (Optional) have you finished and you are bored?
 Include in the web an amazing animation!
